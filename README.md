@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shubham-sudo)
 
-- 💬 Ask me about **Python, Asyncio, Web development, and System design**
+- 💬 Ask me about **Databases, Data systems, Distributed systems, Asyncio, Web development, Concurrency**
 
 - 📫 How to reach me **shubhamk00020@gmail.com; kaushiks@bu.edu**
 
