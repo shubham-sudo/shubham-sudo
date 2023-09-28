@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Databases, Data systems, Distributed systems, Web development**
 
-- 📫 How to reach me **shubhamk00020@gmail.com; kaushiks@bu.edu**
+- 📫 How to reach me **shubhamk00020@gmail.com | kaushiks@bu.edu**
 
-- 📄 Know about my experiences [Resume](https://shubhamkaushik.com/assets/pdfs/Shubham's%20Resume.pdf)
+- 📄 Know about my experiences [Website](https://shubhamkaushik.com) | [Resume](https://shubhamkaushik.com/assets/pdfs/Shubham's%20Resume.pdf)
 
 - ⚡ Fun fact **I code after sleep!**
 
