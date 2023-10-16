@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubhamk00020@gmail.com | kaushiks@bu.edu**
 
-- 📄 Know about my experiences [Website](https://shubhamkaushik.com) | [Resume](https://shubhamkaushik.com/assets/pdfs/resume.pdf)
+- 📄 Know about my experiences [Website](https://shubhamkaushik.com) | [Resume](https://shubhamkaushik.com/resume.pdf)
 
 - ⚡ Fun fact **I code after sleep!**
 
